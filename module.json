@@ -10,7 +10,7 @@
     {
       "name": "ClayGolem",
       "email": "ClayGolemDM@gmail.com",
-      "url": "https://github.com/ClayGolemDM/Curse-Of-Strahd-by-Clay-Golem",
+      "url": "https://github.com/ClayGolemDM/Curse-Of-Strahd-by-ClayGolem",
       "flags": {}
     }
   ],
@@ -87,9 +87,9 @@
         "compatibility": {}
       }
     ],
-  "url": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-Clay-Golem",
-  "manifest": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-Clay-Golem/releases/latest/download/module.json",
-  "download": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-Clay-Golem/releases/download/0.1/Packs.zip"
+  "url": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem",
+  "manifest": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/latest/download/module.json",
+  "download": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/0.1/Packs.zip"
 
   },
   "description": ""
