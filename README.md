@@ -13,3 +13,6 @@ Recommended Modules
 - D&D Monster Manual 2024
 - D&D Players Handbook 2024
 - JB2A Animated Assets (free or Patreon)
+
+
+https://github.com/ClayGolemDM/Curse-of-Strahd-by-Clay-Golem/releases/download/0.1/module.json
