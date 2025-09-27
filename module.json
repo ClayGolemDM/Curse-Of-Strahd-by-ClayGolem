@@ -1,0 +1,96 @@
+{
+  "id": "curse-of-strahd-by-claygolem",
+  "title": "Curse of Strahd by ClayGolem",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "ClayGolem",
+      "email": "ClayGolemDM@gmail.com",
+      "url": "https://github.com/ClayGolemDM/Curse-Of-Strahd-by-Clay-Golem",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Curse-of-Strahd",
+      "label": "Curse of Strahd",
+      "path": "packs/Curse-of-Strahd",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tagger",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "dnd-dungeon-masters-guide",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd-monster-manual",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd-players-handbook",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "JB2A_DnD5e",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+  "url": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-Clay-Golem",
+  "manifest": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-Clay-Golem/releases/latest/download/module.json",
+  "download": "https://github.com/ClayGolemDM/Curse-of-Strahd-by-Clay-Golem/releases/download/0.1/Packs.zip"
+
+  },
+  "description": ""
+}
