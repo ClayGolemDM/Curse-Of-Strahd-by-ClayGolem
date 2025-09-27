@@ -1,4 +1,4 @@
-# Curse-Of-Strahd-by-Clay-Golem
+# Curse-Of-Strahd-by-ClayGolem
 Final packaged version for running Curse of Strahd, using DragnaCarta's Reloaded version. Made for Foundry V13, and updated for the 5e 2024 Rules
 
 Required Modules
@@ -15,4 +15,4 @@ Recommended Modules
 - JB2A Animated Assets (free or Patreon)
 
 
-https://github.com/ClayGolemDM/Curse-of-Strahd-by-Clay-Golem/releases/download/0.1/module.json
+https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/0.1/module.json
