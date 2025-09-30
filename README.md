@@ -16,3 +16,5 @@ Recommended Modules
 
 
 Module Manifest: https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/1.0/module.json
+
+How to use: video coming soon!
