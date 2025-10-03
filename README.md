@@ -8,7 +8,6 @@ Required Modules
 - Tagger
 
 Recommended Modules
-- Item Pliles
 - D&D Dungeon Masters Guide 2024
 - D&D Monster Manual 2024
 - D&D Players Handbook 2024
