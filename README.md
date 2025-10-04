@@ -1,5 +1,6 @@
 # Curse-Of-Strahd-by-ClayGolem
 Final packaged version for running Curse of Strahd, using DragnaCarta's Reloaded version. Made for Foundry V13, and updated for the 5e 2024 Rules. 
+Help video link below!
 
 A Foundry VTT Adventure pack for running the "Curse of Strahd" D&amp;D adventure.
 Includes all Pre-built maps, including walls, light, sounds and numerous triggers.
@@ -27,4 +28,5 @@ Hey presto! This will install for you. Once done, click Update for the Curse of 
 
 Module Manifest: https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/1.0/module.json
 
-How to use: video coming soon!
+
+How to use: [video coming soon!](https://youtu.be/OfPCsTHIP2o)
