@@ -1,5 +1,5 @@
 # Curse-Of-Strahd-by-ClayGolem
-Final packaged version for running Curse of Strahd, using DragnaCarta's Reloaded version. Made for Foundry V13, and updated for the 5e 2024 Rules. 
+Final packaged version for running Curse of Strahd, using [DragnaCarta's Curse of Strahd: Reloaded](https://www.strahdreloaded.com/Introduction/A+DM's+Guide+to+Curse+of+Strahd) version. Made for Foundry V13, and updated for the 5e 2024 Rules. 
 Help video link below!
 
 A Foundry VTT Adventure pack for running the "Curse of Strahd" D&amp;D adventure.
