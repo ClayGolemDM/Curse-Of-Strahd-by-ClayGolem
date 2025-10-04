@@ -29,4 +29,4 @@ Hey presto! This will install for you. Once done, click Update for the Curse of 
 Module Manifest: https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/1.0/module.json
 
 
-How to use: [video coming soon!](https://youtu.be/OfPCsTHIP2o)
+How to use: [Guide to Running CoS with this Module](https://youtu.be/OfPCsTHIP2o)
