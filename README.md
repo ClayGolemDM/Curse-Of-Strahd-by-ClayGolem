@@ -21,12 +21,12 @@ Recommended Modules
 - D&D Players Handbook 2024
 - JB2A Animated Assets (free or Patreon)
 
-Once you have installed those Mods list above, copy this Module Manifest link: https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/1.0/module.json
+Once you have installed those Mods list above, copy this Module Manifest link: https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/1.1/module.json
 Paste it into the Manifest URL box at the bottom of the Add Ons menu in Foundry (where you were to activate the Mods above). 
 Hey presto! This will install for you. Once done, click Update for the Curse of Strahd mod to ensure you have the latest version with any needed bug-fixes. 
 
 
-Module Manifest: https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/1.0/module.json
+Module Manifest: https://github.com/ClayGolemDM/Curse-of-Strahd-by-ClayGolem/releases/download/1.1/module.json
 
 
 How to use: [Guide to Running CoS with this Module](https://youtu.be/OfPCsTHIP2o)
